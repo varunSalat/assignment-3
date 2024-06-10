@@ -16,7 +16,6 @@ npm install react-router-dom
 
 Step 3: Project Structure:
 
-Project Folder Structure
 Root Directory
 node_modules: Contains all npm packages.
 public: Holds static assets like index.html.
