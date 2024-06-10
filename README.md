@@ -12,6 +12,8 @@ Step 2: Install React Router
 
 npm install react-router-dom
 
+![alt text](<Screenshot from 2024-06-10 10-58-02.png>)
+
 Step 3: Project Structure:
 
 Project Folder Structure
@@ -88,3 +90,15 @@ Contact Form Section: Includes a user-friendly contact form where visitors can s
 The Contact Us page's clear and accessible layout ensures that visitors can easily reach out to the company with their questions or feedback.
 
 ![alt text](image-3.png)
+
+Step 5: Configure routes in App.js file.
+
+Here we have used switch and Hashroute to create routing in the App.
+
+In hashroute we have layout file which contains header and footer of the app.
+
+and in Route we I have created three different routes.
+
+/ for homePage, about-us for about us page and contact-us for contact us page.
+
+![alt text](<Screenshot from 2024-06-10 11-02-05.png>)

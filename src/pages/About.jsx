@@ -25,17 +25,14 @@ function AboutUsPage() {
         <h2>Our Team</h2>
         <div className="team-list">
           <div className="team-member">
-            <img src="https://via.placeholder.com/150" alt="Team Member 1" />
             <h3>Team Member 1</h3>
             <p>CEO</p>
           </div>
           <div className="team-member">
-            <img src="https://via.placeholder.com/150" alt="Team Member 2" />
             <h3>Team Member 2</h3>
             <p>CTO</p>
           </div>
           <div className="team-member">
-            <img src="https://via.placeholder.com/150" alt="Team Member 3" />
             <h3>Team Member 3</h3>
             <p>COO</p>
           </div>

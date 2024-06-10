@@ -34,6 +34,7 @@
 }
 
 .team-member {
+  padding: 1em;
   background-color: #ffffff;
   border-radius: 10px;
   overflow: hidden;
@@ -42,10 +43,18 @@
   flex: 1 1 30%;
   box-sizing: border-box;
   transition: transform 0.2s;
+  -webkit-transition: transform 0.2s;
+  -moz-transition: transform 0.2s;
+  -ms-transition: transform 0.2s;
+  -o-transition: transform 0.2s;
 }
 
 .team-member:hover {
   transform: translateY(-10px);
+  -webkit-transform: translateY(-10px);
+  -moz-transform: translateY(-10px);
+  -ms-transform: translateY(-10px);
+  -o-transform: translateY(-10px);
 }
 
 .team-member img {
